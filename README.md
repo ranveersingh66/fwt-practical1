@@ -52,5 +52,5 @@ A basic web page was successfully designed using HTML. The practical helped in u
 
 ## Author
 
-**[Your Name]**
+Ranveersingh Pawar
 B.Tech CSE, D Y Patil International University, Akurdi, Pune
